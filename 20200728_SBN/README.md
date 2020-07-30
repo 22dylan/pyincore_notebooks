@@ -1,6 +1,6 @@
 ### 20200728_SBN
 
-The notebooks contained in this directory are part of a spatial Bayesian network (SBN) that computes parcel-level resilience. **If one simply wants to run the SBN, then download the notebook in 3_SBN and associated CPT.h5 file at (...). Ensure that the jupyter notebook and the CPT.h5 file are in the same directory, then open up the notebook.** 
+The notebooks contained in this directory are part of a spatial Bayesian network (SBN) that computes parcel-level resilience. **If one simply wants to run the SBN, then download the notebook in 3_SBN and associated CPT.h5 file at (...). Ensure that the jupyter notebook and the CPT.h5 file are in the same directory, then run the notebook.** 
 
 The entire process of performing the damage analysis, populating the CPT files and setting up the SBN is documented here. There are three primary sets of notebooks, organized into the following directories:
 
