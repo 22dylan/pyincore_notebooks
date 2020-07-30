@@ -8,5 +8,5 @@ The entire process of performing the damage analysis, populating the CPT files a
 2. CPTsH5 - used to extract results from the codes above and populate the SBN's conditional probability tables (CPTs). A single hdf5 file is generated for all parcels in Seaside. 
 3. SBN - a notebook that uses the SBN as a decision support tool. The SBN relies on the CPTs produced from the previous code. A copy of the pre-populated CPT.h5 file can be access at (...). 
 
-
+A conceptual view of the overall framework:
 ![framework](./images/framework.png)
