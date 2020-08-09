@@ -8,4 +8,4 @@ This notebook is used to demonstrate pyincore's multi-hazard damage capabilities
 
 ### 20200728_SBN
 
-A Spatial Bayesian Network (SBN) is constructed and implemented in a jupyter notebook. The notebook acts as an interface for the SBN. The user specifies input in two files corresponding to community and parcel level decisions. The notebook runs the SBN and the user can view the results spatailly in interactive maps. 
+A Spatial Bayesian Network (SBN) is constructed and implemented in a jupyter notebook. The notebook acts as an interface for the SBN. The user specifies input in two files corresponding to community and parcel level decisions. The notebook runs the SBN and the user can view the results spatially in interactive maps. 
