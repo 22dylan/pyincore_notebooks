@@ -11,6 +11,5 @@ The entire process of performing the damage analysis, populating the CPT files a
 
 This entire process is outlined in the figure below. The notebook in this directory, however, demonstrates the final two steps highlighted in red. That is, a spatial Bayesian network is constructed and it is used to generate maps of resilience.
 
-<img src=\"images/framework.png\" width=\"600\"/>
 
-<!-- ![framework](./images/framework.png) -->
+![framework](./images/framework.png)
