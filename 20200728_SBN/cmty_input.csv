@@ -1,0 +1,8 @@
+Node,Value
+event,RT_1000
+ex_ante_elec,electric_retrofit_0
+ex_ante_trns,transportation_retrofit_0
+ex_ante_wter,water_retrofit_0
+ex_post_elec,electric_fast_0
+ex_post_trns,transportation_fast_0
+ex_post_wter,water_fast_0

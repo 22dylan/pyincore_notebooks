@@ -1,3 +1,4 @@
 # gitignore file for github directory pyincore_notebooks
 
 *.zip
+*.h5
