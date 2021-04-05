@@ -3,3 +3,4 @@
 *.zip
 *.h5
 decision_variable*.csv
+!Decision_variable_
