@@ -18,3 +18,14 @@ The notebook here uses pyincore to damage the infrastructure at Seaside. This no
 ### 20210224_BldgOptimization
 
 The work in this directory employs an optimization routine to determine mitigation strateiges for buildings in Seaside. The damage analysis is performed using pyIncore. This work was performed by Tarun and Dylan. Last updated using pyIncore 0.9.2
+
+### 20210613_Seaside_Update
+
+This notebook is an updated of the Seaside notebook on the pyIncore website. It follows the IN-CORE flowchart up to restoration of physical infrastructure. Multiple people have contributed to this.
+
+### 20210924_CGE_Mehrshad
+
+Notebook provided by Mehrshad to use the Seaside CGE model. 
+
+
+
