@@ -1,0 +1,223 @@
+[
+    {
+        "guid": "00919ec2-5c9d-4269-8ddb-e8d2a0d960d4",
+        "fragility_id": "5d545613b9219c0689f1f3dc",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 4
+    },
+    {
+        "guid": "efd6e76c-cf38-4265-be16-b5c6b53843b2",
+        "fragility_id": "5d545471b9219c0689f1f3c7",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "5f1a56e1-07ec-4e4d-a6a4-ee5146f4da56",
+        "fragility_id": "5d545471b9219c0689f1f3c7",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 4
+    },
+    {
+        "guid": "dd9fa667-58a2-43ec-8268-01e4ad6632ab",
+        "fragility_id": "5d54553fb9219c0689f1f3d3",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 7
+    },
+    {
+        "guid": "56ca7139-3291-4e25-8db0-e2168d2daa62",
+        "fragility_id": "5d545471b9219c0689f1f3c7",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "9e942576-df8a-4159-98f3-239d3aac7111",
+        "fragility_id": "5d54553fb9219c0689f1f3d3",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 6
+    },
+    {
+        "guid": "cbfa269a-6c48-43a3-8ba8-cbb3a1f23e88",
+        "fragility_id": "5d54553fb9219c0689f1f3d3",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.7360000014
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "b85a28bc-be9b-4c81-a334-4940d1aeb59f",
+        "fragility_id": "5d545613b9219c0689f1f3dc",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "76b98763-559b-4ef2-ab6e-c86764855aa0",
+        "fragility_id": "5d5454bcb9219c0689f1f3ca",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.7360000014
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "0497d962-7588-41b5-a898-f733549af36a",
+        "fragility_id": "5d5454bcb9219c0689f1f3ca",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.7386203408
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "d134f967-6c74-4100-98bd-5c7c79e71290",
+        "fragility_id": "5d5454bcb9219c0689f1f3ca",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 3
+    },
+    {
+        "guid": "62a42c32-7d4a-47be-ab2e-6ed169b72048",
+        "fragility_id": "5d5454bcb9219c0689f1f3ca",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.8410000205
+        ],
+        "spans": 4
+    },
+    {
+        "guid": "4d0cc9d0-7ec5-449f-a2f9-797ae8e599de",
+        "fragility_id": "5d545471b9219c0689f1f3c7",
+        "retrofit": "as built",
+        "retrocost": 0.0,
+        "demandtypes": [
+            "1.0 SA"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardval": [
+            0.7615275383
+        ],
+        "spans": 1
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "guid": "2048ed28-395e-4521-8fc5-44322534592e",
+        "fragility_id": "5b47c3b1337d4a387e855638",
+        "demandtypes": [
+            "pga"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardvals": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqdemandtypes": null,
+        "liqdemandunits": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d6ab5a29-1ca1-4096-a3c3-eb93b2178dfe",
+        "fragility_id": "5b47c3b1337d4a387e855645",
+        "demandtypes": [
+            "pga"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardvals": [
+            0.5910000205
+        ],
+        "liq_fragility_id": null,
+        "liqdemandtypes": null,
+        "liqdemandunits": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8d22fef3-71b6-4618-a565-955f4efe00bf",
+        "fragility_id": "5b47c3b1337d4a387e855645",
+        "demandtypes": [
+            "pga"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardvals": [
+            0.6359999776
+        ],
+        "liq_fragility_id": null,
+        "liqdemandtypes": null,
+        "liqdemandunits": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "cfe182a2-c39c-4734-bcd5-3d7cadab8aff",
+        "fragility_id": "5b47c3b1337d4a387e855645",
+        "demandtypes": [
+            "pga"
+        ],
+        "demandunits": [
+            "g"
+        ],
+        "hazardtype": "earthquake",
+        "hazardvals": [
+            0.6309999824
+        ],
+        "liq_fragility_id": null,
+        "liqdemandtypes": null,
+        "liqdemandunits": null,
+        "liqhazval": null,
+        "liqprobability": null
+    }
+]

@@ -1,0 +1,5816 @@
+[
+    {
+        "guid": "c34c4207-d1e8-47d1-b29e-1ba11d951bce",
+        "fragility_id": "5d2633c5b9219c06929a8208",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "402388b9-f14c-4402-9ad9-8b0965de0937",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1d244334-1aef-4ced-b5f5-6f886a9d0db6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5a051ea9-a0b3-45ee-a283-82512e7b7cb6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "51a54596-597b-46f9-8c8b-bc58f1105853",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5259ef1f-de9b-4e9e-9cdc-92db831ba1db",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "86868c5c-e7cc-4a04-9304-283d7ddae6c8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c564f93d-02b9-4ebb-b88b-b89baf7b2286",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "dfe4c048-b4a4-43b2-88ed-59693417470f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9f87abfd-23fb-4734-97f5-d1213c7a38c2",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "26ac997a-efa0-406b-86a7-c20575b17528",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c1562af7-eb87-4c90-9251-ace5a53540aa",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "67d05d7b-5f8c-4752-9e42-19a6fe6d6dee",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "00bfec18-7b78-46b8-9899-d48104107c72",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9b38bb0c-a2e9-4068-90e8-4bf0479b3a9e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d2dd8cb5-bf01-4539-9b3c-d9b7e17b4ffb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b5d4e890-3b47-485e-92cb-b6d345466a16",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a07d1e47-2f22-46bd-93d1-a7ee8a5d9e62",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4b89c33a-a92a-4f63-9be3-ca822e71125b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "88f86b5b-4b9a-4984-abd1-a0f46c66b74e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fea2341d-299c-4a73-a38a-e0d9c55ee522",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b0dfca73-57a1-4843-b0f3-1d529bb841cb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "01ce4ff5-0c95-4629-9df7-8454af9e81e8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "341199cd-d3e3-4bad-9aef-5afa32e1d50a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3e6dde4f-7e2a-4259-8a08-aa5a7469bd70",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            20.6692926258
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "591f8aab-5a64-46cd-8235-29866d6aabe9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fa6dd154-65f6-4e5c-a03c-cb5b8deca3b9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            19.0288726258
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "66e9010b-b26b-463d-9320-074d866d0f76",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "12f97fc8-b7b5-4a83-b2ea-ea81bde3f6e9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            13.12336
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "584f8368-c4ac-42bd-a39a-230517a5e13e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            10.1706036871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3b636a87-94c9-46a6-b656-d9d29af97342",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.2178481564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a4df5736-a1cb-4f7a-9de5-d8cef9cabce1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e08a5fdf-41fc-404e-926b-3236ed4d0789",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5e7f3e17-45a3-4028-85f1-b4ebd83303f3",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.9370081564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f92053b0-8253-4fa0-81f6-95da43171706",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.6089240782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "430c0e75-7a27-41ac-b193-2fe1f0145cfe",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.9370081564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "237c409d-b318-44b8-8ca6-a1e18ae2f9bd",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "31e6b71f-937e-48bf-9afe-388beb0929c8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e08018f4-dcac-4b3f-8d3b-d1f18d443d14",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7f94579e-7b96-441d-a068-ee81f7e0cd36",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.56168
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "335b3081-6fc1-4b6c-94b1-3042429c68af",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.8740163129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c0c736b8-3178-4ddf-a85f-fd71d0357489",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.8897636871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7e5cdbbe-0541-4d7e-9668-1e08b17ee5df",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fa9ef8bd-115f-488e-97cd-518ba7054253",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "579d0924-c727-449d-b5ac-a7b831abf23b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8e7b13e3-f301-480b-9fb2-84770bd88ea1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6e511c55-eb8d-44a4-92bf-33cf3d603d96",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "52ff9834-ee38-4044-a541-6a9b3da43840",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9dc98d6f-11fa-44f3-8b38-7faef160192f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f0443445-4d18-43fa-ac33-708a37b69d4e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f949ea84-2418-4ca5-8107-e3b17250196e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d762515e-bc47-4f09-9bca-375537b896b5",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f5ce1253-cb21-4b37-b924-dbb6aa5b0b24",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "76ee4416-d7f1-4650-a7fd-3a9c0e77e034",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1678e075-5d74-4faf-ae7c-7a931e14494e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1d4863c6-325a-4ad7-8247-74e3f540d0ee",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7c23d476-1b96-4b7d-80f3-6beb6b1c17f5",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "755d4af2-7bb3-412f-84f0-12850c5de41a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3ff37bae-7c58-459c-82ab-8c348362546a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "982f6ed5-163b-4635-b3f3-efba616f7dd9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "acd734d3-a6c5-4f6c-8a54-5b209fc2303d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3332c904-0968-462b-94ea-936e53570eb1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3fa1fd09-f4af-4448-afe7-ef97f274d649",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e6e16a07-6c9b-4f88-aa60-9661f6685577",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "60810fef-417e-4abe-a7d1-d856bc0a3829",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.6089240782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "29849e52-104e-47a9-a380-c453f8661d1a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "de4bf424-96a4-439a-8683-d790676bc7fa",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "606288ba-d649-448c-ae00-e2c091b91d65",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.56168
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "96fe4d67-a1bb-4438-8794-ee684b73c665",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "079fdc61-361d-4d01-a0b1-67f3c468ab3c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.56168
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4e588b62-d5dd-4bd9-9ca2-c16f467e361c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "39ff7a72-95b9-459f-b130-ddc87797ba0b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6b53dcf0-3f41-4e93-9e5e-2869c68424ec",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.56168
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "bf587a56-cb5c-438d-ade2-351ed4507288",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.2335959218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5252d086-d20c-4471-a22a-2dad75a2f301",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.8897636871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "61b1c734-a5eb-4c95-a816-0cdc61f6af7d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "675f80c3-67a5-4d7f-b0c9-0e5b58831865",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ad379955-3950-4b50-b817-cc3bc839840b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3d811c32-2bb2-4db9-baca-6137193a5835",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2a84bcff-6364-4ed6-9647-88964ee7511c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "920cf668-d28c-434a-8722-60b4b8fff0c8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "06135a23-fb15-4cb3-b932-b599db0a2501",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d5f6a2a3-1572-4b4b-b300-f1a53a17805b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            8.2021
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1d9d6196-8b50-4828-b6a4-a1783bba76a0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4ee46b4e-f2f1-48ec-af0f-a2da810eba0f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "127882ad-6c96-41cf-9103-4e0b09f839c7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.2335959218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b44625ba-23c4-4138-b885-2f1fe8ede85a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0a3213a0-3c71-4f1f-80a4-aa1540472c14",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ad1e7b99-cb58-4ca1-b7c3-dc8515ec0ddd",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4b7f529f-ebeb-4e19-94bf-9a9fe51408ef",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0c34e98c-d8e8-4776-8c26-06d5c1fe4c15",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3627b630-d572-45b9-bbca-0b0c3b9d33ed",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "31d76e60-0fe4-473b-bebc-2931e9ffee02",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5a5d33c8-5340-4f25-829d-c65af57f6c14",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9f15b2d2-033f-4fc7-a7d7-114af8dba837",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            10.4986881564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "48341b31-24fe-4e08-8046-3294ff6420bc",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6786d4cf-5b36-48e6-adad-77e1ae93f23f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.8897636871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "315cab9d-11db-4b34-89e8-5111e6324ea2",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.9370081564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "314d0d4b-7276-41d6-b3bc-ca9e06357e78",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.2493440782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7ab8c6c1-ec99-492a-87cf-e20296a3ff9a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            8.2021
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "adb46051-da56-472e-964d-467a167f19df",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.8740163129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6b3aa6c0-dbc0-4ccd-9e44-5aaf7eb53bbb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "99d2fb48-9305-4ee7-8767-389e8ac9c6fa",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d34be7e8-b68c-40b9-b2d0-8a0706df91cc",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d922fa73-9e25-4239-b846-1623a3c2950d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "77aa9bfb-a4ba-4d70-9725-9f6b6ceb2d77",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0d268d61-1733-48ee-bab9-8126b3609522",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e044c98c-df20-42ac-a068-dfc1cd12999a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8a6189e8-b4b3-4593-89a7-67f4bf2a96e7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2ce37060-3ce0-49c7-a5eb-26ea0fb40eb3",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f6b10d96-b652-44cb-84f9-36eb794b8542",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "bbfcd1b0-f84a-4e6e-8a12-e4c0cd2f9436",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a95cb7a6-2bd5-4ab1-86aa-a3e0f6848ac5",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b0c8353e-8c13-404c-9aa6-789a58305720",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ddc27b34-fda7-4ac6-9d45-3c6bddf36e55",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2f2ca5e1-43e9-4461-bd41-2d9cc5783af0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f2aa94e7-f76a-4189-8972-93a09a647c42",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a17a5de2-f648-4a7a-a6c7-b712598e993e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5c38bf3b-b0b3-42eb-8677-60c906c3027b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4abc7484-4dbb-4a5e-9c2a-f3e8c9b6649e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "869c20a1-92c9-42f2-a6b8-d3a477924df3",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a62ad1cb-58f9-4bce-903d-23d9abcb5c7a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "799fe6ea-7b1b-4e13-a9d6-a71fe3166560",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "10e49388-3325-4194-a345-ff1175a1323b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c6a83296-7c0f-4a6b-9565-043984a80a37",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "be6219fe-78d6-4465-90dc-366f53011a43",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ee612fed-bf62-419c-a70f-d18e2501e68e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            9.1863518436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "45ebab85-d2df-4b94-b15c-1c6454b7c95b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            10.1706036871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9180fac1-9daa-4958-8410-2c42c0a39cd9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.28084
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "12ccfe49-c908-4fde-b3aa-ada9a42ceffd",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.9370081564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "90cd1d14-013c-446c-8577-61694daabdcc",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7486a5d4-cfa3-4dd5-b12a-b6424968ab56",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.9527559218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5afe8382-d921-437a-8d18-1022c0e96fd1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d367ec6b-ac97-4a9b-83c1-8448ab40d587",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "430723c6-7146-441f-840f-57c43fd0a56d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a0d33357-075b-45ab-ae3d-cbda32c3b1a6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            8.8582681564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0e0e08b8-8c8e-4bc3-ae50-c07c10ec132d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            8.8582681564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1f7ff833-5a68-4396-ac1a-165a081d3a4f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "314d998b-a0b1-4f4e-a9f3-ae3865fcd135",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "01b40e3e-3208-4231-9819-54995631368d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "243e75da-bfc3-4c2d-9547-8b7bdad2c15b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ef5c3c49-632a-4fb0-ac5d-bdf336aeb227",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e04ba792-ef98-4b22-9ff2-b5e51bd3ae0f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8354a496-522a-470d-b4ed-43df05b8bbc0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9a03530e-d575-478c-a23e-ad1e4fa194c5",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5008bc70-3c9c-406f-b085-1df23de94d36",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9da5186d-0cf5-4e79-9707-6ec50247fd11",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "25375c22-21a7-4fd5-ba41-9ab54a405caf",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.2335959218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "172b64e9-3c13-4ded-9393-f11d34e997e1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.5459318436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "47970fd9-dd4c-4bbf-afca-a35630c4021b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.2178481564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ae5bc571-83a4-4231-97c6-6787053ac5cf",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f0c2afa7-6b08-4229-a3ac-b7ce22de38a5",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "bd391993-90cc-4058-8485-0d42b2f60586",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b5a3ed29-adfa-463d-b56a-6b2f2a3e3558",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7340dc81-7278-4e4e-b4ba-accb5f623cd7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7bff1cf4-173b-4691-bada-b2225d98f2c3",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9ddabe9b-262a-4379-b4ab-9161e0aaa0a2",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4136f6ea-a96d-4356-b106-4dd1afec7142",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0ba197db-403e-4cf5-a22f-9839d376321f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c9e2011c-c8fe-4c7c-a45c-9ebb29c358bb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b123aec4-8869-497d-bb2a-6d7c2988c3c7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7e13c179-c499-47eb-b1c6-4ad02372f823",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1b4f35c5-0844-40d2-bef5-fdde355d39b8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "37999172-0d57-49f1-bfce-d07b6a04764b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "82aac504-d004-4c07-b481-6758b67bd1ae",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9e1290e5-a56f-4b5c-ac0a-628c3e469aa0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f48c6181-055b-4d9a-8177-2b182e5f5616",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "778b3f83-fab6-4462-aede-6473600d3858",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b0bc3158-fea1-47d3-91e1-369e70c671c0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3ded5c44-be23-4aa6-a86c-190cdca08c73",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "35d9ca70-f4b9-4a21-884e-431ba33aea4f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "20a97001-4f78-441e-8ee5-7c6f50d559af",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.2965879609
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8aa3065b-d280-42d6-a204-0789eb8a75ee",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.2965879609
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f86cfe79-ab9b-477f-8748-4fb7c440359b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ed887892-0ac7-4c40-a4f2-34f4b7cb76b9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9fdf0776-073d-487c-a95e-c4952c260373",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.9527559218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9af6e8c3-fefd-44bc-8afd-779ff37d368c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            12.1391081564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d293ae5b-487e-4b6d-a6b2-6f721e6d7e37",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.8740163129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "de5363a5-e709-4e70-92fd-e5299b158dc4",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            9.5144363129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "aec5c141-c3ff-436f-a96b-3f314718b8e0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.5459318436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8b0a36e6-ac96-4dbe-ae90-890f76df748c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.2493440782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6ce645e5-b6ee-4456-a1c7-bae8db0b6407",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8f340e36-89a6-457b-9f14-1644afc70d4f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "92e360e3-577f-46bc-82cd-07766217b43f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "66180832-c373-480a-a89a-24ec01dcfc3b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3af6b654-5548-44a9-8e08-dd2a449cc31c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2a65e074-51eb-4eb0-aeeb-85523d6c8b06",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.56168
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2f754b80-1b48-40a9-ae3d-761fd6e14f62",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.8897636871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e7b58158-d3bf-4c18-9937-089c0c01c129",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fe79ca08-7570-4674-9b2a-da3f1c82fa21",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c1c7a4d7-e8f1-4ca1-be3b-3f44f50b5907",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            10.8267718436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d522c7fa-00b9-4f72-b8ef-8310dce98156",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "83f5e9c1-8b3d-4aee-a165-7f2f647ce70b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8b756d2a-74d0-44a3-a21a-223b4f41fa7d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c18f25c5-3072-4541-97d9-fa00ced5c3c4",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b9e7612f-371d-46d1-a4f4-9dbf8eedf34e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f4aedcf4-9afc-4c1f-ac6b-2a7098b55211",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fc29ce93-1a28-49ab-a1e3-61c3432ce63e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9d913c58-bb17-485a-875d-9d24241d3691",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "df5a6ce6-39c4-46a2-b571-3d70d3d4484d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b9b3054b-7030-4a44-854e-2ba961c62716",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f8a2a704-b3cd-4e5b-a196-69caf69fc4e9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f87bb743-3b4d-44ce-ad15-2e3973b6dd95",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c0fac70f-8c33-438e-b451-8a1e5acc7a3c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f4535488-4711-4ca8-829e-e178e27407d7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3ab773f9-c452-4f18-a06d-b9f59182d8cc",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "073a439a-63c6-4138-82ac-d824a0d87ebd",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0ff9b726-364a-45aa-be42-80fbf72d31c9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2de9ab73-978b-4fdc-9129-7450112cc0f7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "24ea76fc-00cc-49c0-ac4c-41dc35f0ac3b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f3c809b4-3ca7-453a-bf63-7e40061afc24",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "31cef5c8-02ee-41fc-a910-d6905dc095ee",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8e00f889-f092-4bb4-a653-8f1317791b72",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ea60fa43-11ea-45a7-aa53-c1bb50b1dce4",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "22a23212-8190-46be-b33c-4ef924adea7e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "05183bac-1f9a-4a83-971d-5de1a9f6f76b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0ef47850-d4b6-466f-81f9-7936ef847098",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8c638bf1-1570-4853-97a1-e5cb84c4bacd",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "dca0a79d-a810-45a9-a728-646254110028",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f3aa1875-01f2-4588-8058-5076fec6524e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c7752071-dca9-41c3-9e67-d3275a3fee9a",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a5b88261-8219-4945-8870-e813f71cfa1d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f4b587cf-76bd-4f69-81f9-056fa7996c95",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "357507d7-b5b8-485e-a9ed-0bc4688131a7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1c12acdc-363b-496e-8b29-1300e1733305",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.8897636871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ca1dbca8-74a2-4f55-816b-ae1521199e0d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.2493440782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b1c5dc20-3812-43eb-93b5-75806297ad6f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.56168
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6ae802bf-98ba-47d7-aa9f-c345362f88c0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3d6ec28e-85c0-4631-8b63-3254d2098a12",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.2493440782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "1252e35b-7d99-4caa-ad81-defc1c587639",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "cb82c8d7-5834-4797-b9af-eccde16544bb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f2dd0371-24c7-4a93-aab1-4091468e1f8f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "06b119b5-5f07-4c70-9dbb-329a6c368b32",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a8103a32-d3aa-41d6-a114-62345983ea6f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8e103b2a-ae77-4288-a89f-275a2680f778",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2f8ba2ca-aef9-48a4-91da-a70f08b384b9",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2a0ece4e-cdc0-4a1b-a896-c6ae80f60026",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "123a148e-ee0e-4cb4-b44e-4065e930b70e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "40f3cb51-b74e-4c25-bdcd-cc8ab232f4f2",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2b6700d4-8452-4206-9844-ccf906db35d8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            0.9842520391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4a970229-c7de-4366-89a3-fd407af63a80",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "de04adf6-bdb9-4500-afa0-eb3f18d6a168",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.28084
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "557fe1a3-2ad8-494b-bbc1-d5dfccc4dc3c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "af5960c9-b795-485c-8be9-6f6a9eb56f11",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "13a1bffd-ad1c-49b5-b9e8-7d33dfe411d6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8a5807f3-a41f-4353-97fb-86332a25bb05",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.3123360196
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "465eaf62-5789-4ba7-a8f7-f2d6f4509e10",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            12.7952763129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "040d4725-e3d8-44f2-8f55-9359c1b659fc",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            12.4671918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "35e9d078-3b99-4248-a4a0-3c6977be08b0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5f089583-865a-4b6f-a161-a1cd9b07e7b0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2e3c7ac9-44f7-4826-8654-22edf8b564cb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0436bf05-51af-4a8b-bd42-1d7a4a9f1b92",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5eff27a0-e74e-41e0-9f97-bb2ffe8bcc4d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "3527e49d-c01d-4e66-bcdb-dcd0d2ab1602",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "f9ee0fc1-e53b-490b-85c5-83c331c70d38",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9b569a96-a01f-4616-9a74-fd66e8d046f2",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "8318580d-015d-42da-ba0e-bf39f5048cf6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a69b0c4b-0dc4-423f-ab9f-13eebf8076ca",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c5cc7da8-fd30-4377-91ca-a87cbfeb9b1e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "89b8a409-c960-4a0d-918b-298d8056e1f1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4b424e27-1cbe-400e-a6cb-97c5034834e5",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e6e290ac-fae5-4cb1-aefc-6368d2ed9a4e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.2965879609
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b473e069-9a8b-49fa-967c-5ab33f622d20",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9e2dccd8-d335-4bb8-9d47-c3e3e65b0c43",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7fbd5bec-e785-435c-954e-4c73cabb0a85",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "13108f35-e3d2-430b-9b60-44fd7313d614",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b426f0e0-faff-4108-8c31-aa97bdf8ecbe",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9fafae5c-a771-4924-9a21-46c05708d633",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9b82906e-ff70-4383-835f-5d5909a4bf31",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "cbafec2e-dd0a-4068-b625-3aa6cbda709c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "86555cee-940b-4212-ad5c-818d8cc4fa96",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            13.12336
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c03b2860-a291-478b-afc3-37fd8e8f0637",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            12.7952763129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fc503b57-de64-468b-802e-b0e3c9c923a4",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "67059e09-dc07-4534-82fe-c486618674de",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "b1df01b3-e24a-4dc1-bdd6-e951ba8d1fee",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.2493440782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "847b5519-96bc-4937-9177-d5dfeb24b23d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            6.2335959218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "743c58f3-3232-46bb-bbca-60a4a2c589fc",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.92126
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9cfdb0b1-ecad-45e7-8c0b-dfff8a582a4d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ae515018-b982-40a4-887c-7eb91a640783",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "61c4cc9a-e997-4899-a6e5-1370e32b3840",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e68f407a-b7e4-438d-b5f3-a38fbeabbdf8",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a570fba3-6583-4158-8fa7-b2d100620333",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c52a9f41-bc40-49fc-9886-2aab9e1713d7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "66c91038-0966-4820-adbd-2a65a0855486",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "fdfc2169-c06d-43a2-983c-2fa03e86e74f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ae8940c5-30bd-41c0-acf1-cfe6a485ff06",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "cef5470f-af01-41d2-a45d-ba7436f9ac5d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "4ae32b58-308b-4450-bd1e-902a9e7c2c1d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "99eba104-4765-4884-b9a8-571500a4f3ed",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "a404928e-cf87-4253-a363-247cc7f3fa1f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.9370081564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "d7cb2c42-c7c2-49eb-9f9d-e3eb1c879948",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.9055118436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9360bc57-7f73-450f-b3e2-b8d696d1efd1",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2ce05245-e7e4-4aae-bb5b-8dfa021a7110",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "104c87ac-25e3-4291-8cd2-44f63a52382d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "95a2f2d7-6efb-46f6-948e-6a0ce8652e15",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "bc251072-93a8-4c23-a28c-2b408274863e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "ccbbeb3e-c75c-4618-8f8e-69103512181f",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2567b968-d05f-4027-99f6-31f5b5e9e1eb",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0ae42695-c5d3-4a76-9e53-bba7a2fb288e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "66829ba8-a5c2-425c-86dc-9db3e5e766e7",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "545d770a-836c-4cd9-95a4-65cd7e533748",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c0a7b018-2e0d-488e-a749-0e84328c33a6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e9924662-6685-466f-a4a2-582a9a1a035c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.6089240782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "71ebf4e8-2f85-4ca8-9676-37f2dc104f8c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.6246720391
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0de27825-581f-43dd-9712-e1649e97e73e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            2.9527559218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7f65e38e-ad3a-44c0-bd3c-8687afbfe133",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.9685040782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "9c241af9-5285-4eb8-9c62-3afac642dd68",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.5931759218
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "6bac8424-85a0-469e-a3cd-cfca1dec3c94",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.6089240782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "5e830482-43cd-433c-b158-0a47366b685b",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.6089240782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "927d57aa-f543-4500-b12a-113c22e7569c",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "017b6a8e-9367-4efd-9649-e48098145af4",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "57b0bba4-d8d1-4cad-8aa4-1876157bf340",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            null
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0e9f1cfe-b413-42a5-901b-4419fae2ac79",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            1.64042
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "cde8d071-134d-4d47-801f-ee0d471bec54",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.2178481564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "7677099f-232f-4135-bf2e-0f7246c25b8e",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            7.8740163129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0e02403f-8ea1-4685-9a68-cabca83784ef",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            10.1706036871
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "0e2b74b0-7bd5-4152-a8a3-613f090c0825",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            8.2021
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "64971689-1cea-4d13-8842-f8dd692dbbf6",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            11.1548563129
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "e8e8d5a6-32de-4744-859d-958ffb618d23",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            11.48294
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "90b6f62b-c1e1-44d7-a40d-fd5992da8172",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            3.6089240782
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "abf0695e-34eb-4abc-a573-3bb9689b1e4d",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            5.5774281564
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "2946867a-407d-4067-961d-66034fcbfd81",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            11.48294
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    },
+    {
+        "guid": "c9887f72-a4aa-4c8d-a298-d5f63ccf95c0",
+        "fragility_id": "5d264479b9219cf93cca4086",
+        "demandtypes": [
+            "Hmax"
+        ],
+        "demandunits": [
+            "ft"
+        ],
+        "hazardtype": "tsunami",
+        "hazardval": [
+            4.2650918436
+        ],
+        "liq_fragility_id": null,
+        "liqhaztype": null,
+        "liqhazval": null,
+        "liqprobability": null
+    }
+]
