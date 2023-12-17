@@ -28,4 +28,5 @@ This notebook is an updated of the Seaside notebook on the pyIncore website. It 
 Notebook provided by Mehrshad to use the Seaside CGE model. 
 
 
-
+### 20231217_in-core-how-to
+Notebook used to create "how-to" in-core video. This notebook demonstrates pyincore's building damage abilities for earthquake and tsunami damage. 
